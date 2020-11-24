@@ -35,6 +35,6 @@
         ]
     },
     "devDependencies": {
-        "tailwindcss": "^1.6.2"
+        "tailwindcss": "^1.9.6"
     }
 }
